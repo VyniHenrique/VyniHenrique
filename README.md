@@ -1,6 +1,6 @@
 # Olá!! Meu nome é Vynicius Henrique 🫡👋
 
-#### Atualmente curso Análise e Desenvolvimento de Sistemas no IFPE e aqui você encontra algumas coisas que estou construindo nesse processo:
+#### Atualmente curso Análise e Desenvolvimento de Sistemas no IFPE e aqui você encontra algumas coisas que estou construindo nesse processo
 
 
 ![Vynicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VyniHenrique&show_icons=true&theme=dracula&count_private=true)
