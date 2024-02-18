@@ -8,7 +8,6 @@
   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=VyniHenrique&layout=compact&langs_count=7&theme=tokyonight"/>
 </div>
 
-[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vynicius-henrique-089703254)
 
 
 ## Tecnologias com que já tive contato:
@@ -31,3 +30,7 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
+
+# Meios de contato
+
+[![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vynicius-henrique-089703254)
