@@ -5,6 +5,8 @@
 
 ![Vynicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VyniHenrique&show_icons=true&theme=dracula&count_private=true)
 
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyniHenrique&layout=donut-vertical)](https://github.com/VyniHenrique/github-readme-stats)
+
 [![Linkedin](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/vynicius-henrique-089703254)
 
 
