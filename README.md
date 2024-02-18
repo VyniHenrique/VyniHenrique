@@ -28,3 +28,5 @@
   <img align="center" alt="C#" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white" />
   <img align="center" alt=".Net" src="https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white" />
 </div><br/>
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyniHenrique&layout=donut-vertical)](https://github.com/VyniHenrique/github-readme-stats)
