@@ -2,7 +2,12 @@
 
 #### Atualmente curso Análise e Desenvolvimento de Sistemas no IFPE e aqui você encontra algumas coisas que estou construindo nesse processo.
 
-
+<div align="center">
+  <a href="https://github.com/ArthurHMSantos">
+  <img height="180em" src="https://github-readme-stats.vercel.app/api?username=arthurhmsantos&show_icons=true&theme=tokyonight&locale=en" alt="arthurhmsantos"/>
+  <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=arthurhmsantos&layout=compact&langs_count=7&theme=tokyonight"/>
+</div>
+    
 ![Vynicius GitHub stats](https://github-readme-stats.vercel.app/api?username=VyniHenrique&show_icons=true&theme=dracula&count_private=true)
 
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=VyniHenrique&layout=compact)
