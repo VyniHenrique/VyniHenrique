@@ -1,6 +1,6 @@
 # Olá!! Meu nome é Vynicius Henrique 🫡👋
 
-#### Atualmente curso Análise e Desenvolvimento de Sistemas no IFPE e aqui você encontra algumas coisas que estou construindo nesse processo de aprendizagem.
+#### Atualmente curso Análise e Desenvolvimento de Sistemas na Faculdade SENAC e aqui você encontra algumas coisas que estou construindo nesse processo de aprendizagem.
 
 <div align="center">
   <a href="https://github.com/VyniHenrique">
