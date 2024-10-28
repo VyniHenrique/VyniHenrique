@@ -25,8 +25,6 @@
   <img align="center" alt="PHP" src="https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white](https://img.shields.io/badge/PHP-777BB4?style=for-the-badge&logo=php&logoColor=white)" />
 </div><br/>
 
-## Tecnologias que pretendo aprender em 2024:
-
 
 # Meios de contato:
 
