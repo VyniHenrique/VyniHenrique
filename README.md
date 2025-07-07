@@ -24,11 +24,11 @@
 </div><br/>
 
 
-## Tecnologia que estou estudando atualmente:
+<!-- ## Tecnologia que estou estudando atualmente:
 
 <div style="display: inline_block">
   <img align="center" alt="Angular" src="https://img.shields.io/badge/angular-%23DD0031.svg?style=for-the-badge&logo=angular&logoColor=white" />
-</div><br/>
+</div><br/> -->
 
 
 # Meios de contato:
